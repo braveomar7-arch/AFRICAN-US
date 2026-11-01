@@ -1,4 +1,9 @@
 globalThis.AUSFrench={
+"OUR ROOTS. OUR HOME.": "NOS RACINES. NOTRE FOYER.",
+"Rooted in Africa.": "Nos racines en Afrique.",
+"At home in Wakefield.": "Notre foyer à Wakefield.",
+"Many cultures, many stories, one shared sense of belonging. We celebrate African heritage while building connections right here in Wakefield.": "Des cultures multiples, des histoires variées et un même sentiment d’appartenance. Nous célébrons le patrimoine africain tout en tissant des liens ici, à Wakefield.",
+"Find your place with us \u2197": "Trouvez votre place parmi nous ↗",
   "Skip to content": "Aller au contenu",
   "ROOTED IN HERITAGE. UNITED IN COMMUNITY.": "UN HÉRITAGE COMMUN. UNE COMMUNAUTÉ UNIE.",
   "Registered charity · 1160029": "Organisme caritatif enregistré · 1160029",
